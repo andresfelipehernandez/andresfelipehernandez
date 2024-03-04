@@ -1,6 +1,21 @@
 # 💫 About Me:
-¡Hola, soy Andrés Felipe!<br>Ingeniero electrónico apasionado por la innovación y el desarrollo tecnológico. Con una sólida formación académica que incluye un doctorado en Bioingeniería y una trayectoria como docente universitario, mi pasión por la investigación y la enseñanza se fusiona con mi interés en la aplicación práctica de la tecnología.<br><br>He tenido experiencia en:<br><br>Docencia Universitaria: Me comprometo a impartir conocimientos de manera clara y efectiva, inspirando a futuras generaciones de ingenieros a alcanzar su máximo potencial.<br><br>Desarrollo en Python, MATLAB y Fortran: Con experiencia sólida en el desarrollo de algoritmos y modelos en entornos como Python, MATLAB y Fortran, busco constantemente mejorar mis habilidades y abrazar nuevas tecnologías.<br><br>Investigación en Bioingeniería: Mi doctorado en Bioingeniería me ha proporcionado una comprensión profunda de la intersección entre la ingeniería y la biología, permitiéndome abordar desafíos complejos desde una perspectiva interdisciplinaria.<br><br>IA y Ciencia de Datos: He trabajado en proyectos de IA y ciencia de datos, aplicando técnicas innovadoras para extraer información valiosa de conjuntos de datos complejos y ayudar a tomar decisiones informadas.<br><br>Lo que busco:<br>Estoy emocionado por la oportunidad de colaborar en nuevos proyectos que desafíen mis habilidades y me permitan seguir aprendiendo y creciendo como profesional. Me apasiona la idea de trabajar en equipo para desarrollar soluciones innovadoras que tengan un impacto real en el mundo.<br><br>¡Estoy abierto a nuevas oportunidades y espero poder contribuir con mi experiencia y pasión a proyectos emocionantes!
+Hello, I'm Andrés Felipe!
+I'm an electronic engineer passionate about innovation and technological development. With a solid academic background including a Ph.D. in Bioengineering and a career as a university lecturer, my passion for research and teaching merges with my interest in the practical application of technology.
 
+I have experience in:
+
+University Teaching: I am committed to delivering knowledge in a clear and effective manner, inspiring future generations of engineers to reach their full potential.
+
+Development in Python, MATLAB, and Fortran: With solid experience in algorithm and model development in environments such as Python, MATLAB, and Fortran, I am constantly seeking to improve my skills and embrace new technologies.
+
+Bioengineering Research: My Ph.D. in Bioengineering has provided me with a deep understanding of the intersection between engineering and biology, allowing me to address complex challenges from an interdisciplinary perspective.
+
+AI and Data Science: I have worked on AI and data science projects, applying innovative techniques to extract valuable information from complex datasets and help make informed decisions.
+
+What I'm looking for:
+
+I am excited about the opportunity to collaborate on new projects that challenge my skills and allow me to continue learning and growing as a professional. I am passionate about the idea of working in teams to develop innovative solutions that have a real impact on the world.
+I am open to new opportunities and look forward to contributing my experience and passion to exciting projects!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/anfehema_80438) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andresfelipeh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/andrés-felipe-hernández-marulanda-ph-d-68709922) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/andresfelipehdz) 
